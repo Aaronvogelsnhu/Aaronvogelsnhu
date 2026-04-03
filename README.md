@@ -38,7 +38,7 @@ Implemented and tested a contact management system using Java and JUnit with ful
 
 ---
 
-## 📚 Currently Working On
+## 🧠 Currently Working On
 
 - OpenGL 3D graphics projects (CS330)  
 - Backend and database development (CS340)  
@@ -52,7 +52,7 @@ Implemented and tested a contact management system using Java and JUnit with ful
 - Expand into backend systems and data-driven applications  
 
 
-## 🎯 Current Focus
+## 🔍 Current Focus
 - Finishing CS degree (SNHU)
 - Building full-stack and backend projects
 - Preparing for software engineering roles
