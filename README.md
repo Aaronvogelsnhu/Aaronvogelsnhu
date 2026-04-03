@@ -51,7 +51,11 @@ Implemented and tested a contact management system using Java and JUnit with ful
 - Continue building real-world projects  
 - Expand into backend systems and data-driven applications  
 
----
+
+## 🎯 Current Focus
+- Finishing CS degree (SNHU)
+- Building full-stack and backend projects
+- Preparing for software engineering roles
 
 ## 📫 Contact
 
